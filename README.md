@@ -15,7 +15,7 @@ This is an inventory management system for searching for specific items if they 
 I had four main resources for the managing system (Item, Order, Manager, WareHouse) :
 
 
-![img1111](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/fc9ab23b-7d8e-4b11-a66b-24fd26462756)
+![img1111](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/fc9ab23b-7d8e-4b11-a66b-24fd26462756)
 
 
 # Item :
