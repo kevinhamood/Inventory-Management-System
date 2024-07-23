@@ -15,13 +15,13 @@ This is an inventory management system for searching for specific items if they 
 I had four main resources for the managing system (Item, Order, Manager, WareHouse) :
 
 
-![img1111](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/fc9ab23b-7d8e-4b11-a66b-24fd26462756)
+<!---![img1111](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/fc9ab23b-7d8e-4b11-a66b-24fd26462756)-->
 
 
 # Item :
 The Item is a part of the order where the order has several items, and the API helps to see if the item by its ID is available in the inventory or not.
 
-![img2222](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/73954657-8ef6-49ea-afac-cffd5e98f7e1)
+<!---![img2222](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/73954657-8ef6-49ea-afac-cffd5e98f7e1)-->
 
 
 
@@ -30,7 +30,7 @@ The Item is a part of the order where the order has several items, and the API h
 The API helps determine whether the order is ready to be shipped or not meaning that if the order is packaged or not, it also checks if the order can fit into the inventory because of its size.
 
 
-![img3333](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/4d8c2843-607b-42d6-8a45-a5ade3c07366)
+<!--- ![img3333](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/4d8c2843-607b-42d6-8a45-a5ade3c07366) -->
 
 
 
@@ -38,14 +38,14 @@ The API helps determine whether the order is ready to be shipped or not meaning 
 
 The manager's role here is to manage the Warehouse where he can decide what comes to the inventory and what comes out of it.
 
-![img4444](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/db56c93d-d5e7-43bc-8996-4b565847cdf6)
+<!--- ![img4444](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/db56c93d-d5e7-43bc-8996-4b565847cdf6) -->
 
 
 # WareHouse :
 
 The warehouse is where all the items and orders are held, it's the main part of the API where its status selects whether the incoming order by its size can be fetched in or not.
 
-![img5555](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/dc77803d-8e2e-402d-a817-97a1ac676c20)
+<!--- ![img5555](https://github.com/kevinhamood/Inventory-Management-System-/assets/54774286/dc77803d-8e2e-402d-a817-97a1ac676c20) -->
 
 
 # Tools used :
