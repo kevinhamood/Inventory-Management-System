@@ -38,7 +38,7 @@ The API helps determine whether the order is ready to be shipped or not meaning 
 
 The manager's role here is to manage the Warehouse where he can decide what comes to the inventory and what comes out of it.
 
-![img4444](/assets/54774286/db56c93d-d5e7-43bc-8996-4b565847cdf)
+![img4444](https://github.com/kevinhamood/Inventory-Management-System/assets/54774286/db56c93d-d5e7-43bc-8996-4b565847cdf6)
 
 
 # WareHouse :
