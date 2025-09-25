@@ -1,4 +1,4 @@
-# Inventory-Management-System
+<h1 align="center"> Inventory-Management-System</h1>
 
 ## Introduction
 Managing an inventory, especially for those who seek client satisfaction, is a main thing to know how to deal with, and knowing the kind of inventory you are dealing with and how it works you need some information to make the process easier and to make the cost as less as possible, here where APIs do the work and have the main role of making this managing process such a success !!!
